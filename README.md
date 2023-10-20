@@ -1,4 +1,4 @@
-# train-yolov8-object-detector-google-drive-google-colab
+# train-yolov8-object-detector-google-drive-colab
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=bx52WmQvbaE">
